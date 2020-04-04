@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homework-with-react-ClassesComponent/static/css/main.eaad0fb8.chunk.css",
+    "main.js": "/homework-with-react-ClassesComponent/static/js/main.82b5276e.chunk.js",
+    "main.js.map": "/homework-with-react-ClassesComponent/static/js/main.82b5276e.chunk.js.map",
+    "runtime-main.js": "/homework-with-react-ClassesComponent/static/js/runtime-main.722dbfdd.js",
+    "runtime-main.js.map": "/homework-with-react-ClassesComponent/static/js/runtime-main.722dbfdd.js.map",
+    "static/js/2.4af94615.chunk.js": "/homework-with-react-ClassesComponent/static/js/2.4af94615.chunk.js",
+    "static/js/2.4af94615.chunk.js.map": "/homework-with-react-ClassesComponent/static/js/2.4af94615.chunk.js.map",
+    "index.html": "/homework-with-react-ClassesComponent/index.html",
+    "precache-manifest.4cc8ed406a24cd96dd04d1bae930dd78.js": "/homework-with-react-ClassesComponent/precache-manifest.4cc8ed406a24cd96dd04d1bae930dd78.js",
+    "service-worker.js": "/homework-with-react-ClassesComponent/service-worker.js",
+    "static/css/main.eaad0fb8.chunk.css.map": "/homework-with-react-ClassesComponent/static/css/main.eaad0fb8.chunk.css.map",
+    "static/js/2.4af94615.chunk.js.LICENSE.txt": "/homework-with-react-ClassesComponent/static/js/2.4af94615.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.722dbfdd.js",
+    "static/js/2.4af94615.chunk.js",
+    "static/css/main.eaad0fb8.chunk.css",
+    "static/js/main.82b5276e.chunk.js"
+  ]
+}
